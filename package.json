@@ -1,0 +1,22 @@
+{
+  "name": "react-app-rewire-workbox",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.14.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.5",
+    "standard": "^11.0.1"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.2",
+    "react-app-rewired": "^1.5.2"
+  }
+}
